@@ -4,7 +4,7 @@
 
 Determine the URL you'd like to redirect to, e.g. `https://farkusmusic.bandcamp.com`
 
-Run `encodeURIComponent` on this code to encode unsafe characters...
+Run `encodeURIComponent` on this URL to encode unsafe characters...
 
 ```js
 encodeURIComponent('https://farkusmusic.bandcamp.com');

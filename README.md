@@ -11,7 +11,7 @@ encodeURIComponent('https://farkusmusic.bandcamp.com');
 // result: "https%3A%2F%2Ffarkusmusic.bandcamp.com"
 ```
 
-Visit `index.html` and open the console.
+Visit ``https://schrags08.github.io/index.html` and open the console.
 
 Add a `redirectUrl` query string parameter to the URL
 

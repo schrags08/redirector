@@ -15,7 +15,7 @@ Visit [https://schrags08.github.io/redirector/index.html](https://schrags08.gith
 
 Add a `redirectUrl` query string parameter to the URL
 
-Proved your encoded destination URL as the value for the parameter:
+Provide your encoded destination URL as the value for the parameter:
 
 e.g. [https://schrags08.github.io/redirector/index.html?redirectUrl=https%3A%2F%2Ffarkusmusic.bandcamp.com](https://schrags08.github.io/redirector/index.html?redirectUrl=https%3A%2F%2Ffarkusmusic.bandcamp.com)
 
